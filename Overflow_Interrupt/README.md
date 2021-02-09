@@ -6,7 +6,7 @@ This code example shows how to initialize the Real-Time Counter (RTC) with an ex
 
 ## Related Documentation
 More details and code examples on the AVR128DA48 can be found at the following links:
-- [TB3217-Getting Started with RTC](https://ww1.microchip.com/downloads/en/Appnotes/TB3213-Getting-Started-with-RTC-DS90003213B.pdf)
+- [TB3217-Getting Started with Real-Time Counter (RTC)](http://ww1.microchip.com/downloads/en/Appnotes/TB3213-Getting-Started-with-RTC-DS90003213.pdf)
 - [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA48)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
 - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)
@@ -77,7 +77,7 @@ Global Interrupts Enabled
 
 The LED pin (PC6) can be observed toggling every 500 ms.
 
-<br><img src="images/Demo.PNG" width="700">
+<br><img src="images/Demo.PNG" width="800" height="90">
 
 ## Summary
 
