@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-rtc-mplab-mcc",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Getting Started with Real-Time Counter (RTC)",
         "projectName": "avr128da48-getting-started-with-rtc-mplab-mcc",
         "shortDescription": "This repository contains examples of MCC generated source code for the Real-Time Counter (RTC), as described in TB3217-Getting Started with RTC document.",
@@ -48,8 +48,7 @@
         ],
         "keywords": [
             "Getting Started",
-            "Interrupts",
-            "Tiemr/Counter"
+            "Timers/Counters"
         ],
 		"additionalData": {
 			"longDescription": {
